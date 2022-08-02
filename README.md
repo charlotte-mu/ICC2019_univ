@@ -7,3 +7,4 @@ MODIFICATION HISTORY:
  VERSION Date Description
  1.0 03/17/2020 testpattern all pass
  1.1 08/02/2022 Multiplier update to two-stage pipelined multiplier
+ 
