@@ -1,7 +1,7 @@
 /******************************************************************/
 //MODULE:		CONV
 //FILE NAME:	CONV.v
-//VERSION:		1.0
+//VERSION:		1.1
 //DATE:			March,2020
 //AUTHOR: 		charlotte-mu
 //CODE TYPE:	RTL
