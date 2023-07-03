@@ -3,6 +3,10 @@
 
 test pattern all pass
 
+Total cell area : 29329.374502
+
+===================================================================
+
 MODIFICATION HISTORY:
 
 VERSION Date Description
